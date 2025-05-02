@@ -1,4 +1,4 @@
-Python codes on Recursive Sorting and Searching Algorithms with Python.
+Python codes on Recursive Sorting and Searching Algorithms with Python. <a href="https://www.amazon.com/dp/B0F67MJ5K8">Click</a> here for the link to the book.
 - Ch 1: Recursive function examples
 - Ch 3: Bubble sort
 - Ch 4: Insertion sort
@@ -11,7 +11,3 @@ Python codes on Recursive Sorting and Searching Algorithms with Python.
 - Ch 12: Interpolation search
 - Ch 13: Exponential search
 - Ch 14: Hash search 
-
-
-
-
